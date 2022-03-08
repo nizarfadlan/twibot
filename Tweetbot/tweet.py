@@ -480,7 +480,7 @@ class Twitter:
         print(f'{Color("cr")}    [-] Tweet link doesn\'t exist{Color("cend")}')
 
 # ------- MENU -------
-def tweet2(a,link='',ai='',hashtag='',tag=''):
+def tweet(a,link='',ai='',hashtag='',tag=''):
   # ------- READ INPUT FROM CLI -------
   show('Twibot by Nizar', 'v1.0.1')
   print()
