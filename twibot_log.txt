@@ -1,0 +1,30 @@
+----------- 2022-03-08 21:31:30.528923 ----------
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="layers"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div[3]/div/div/div/div[1]/div/div/div/div/div[2]/div[3]/div/div/div[2]/div[1]/div[1]"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003F69A3+2582947]
+	Ordinal0 [0x0038A6D1+2139857]
+	Ordinal0 [0x00283A98+1063576]
+	Ordinal0 [0x002AFF3E+1244990]
+	Ordinal0 [0x002B013B+1245499]
+	Ordinal0 [0x002D9F52+1417042]
+	Ordinal0 [0x002C8594+1344916]
+	Ordinal0 [0x002D834A+1409866]
+	Ordinal0 [0x002C8366+1344358]
+	Ordinal0 [0x002A5176+1200502]
+	Ordinal0 [0x002A6066+1204326]
+	GetHandleVerifier [0x0059BE02+1675858]
+	GetHandleVerifier [0x0065036C+2414524]
+	GetHandleVerifier [0x0048BB01+560977]
+	GetHandleVerifier [0x0048A8D3+556323]
+	Ordinal0 [0x0039020E+2163214]
+	Ordinal0 [0x00395078+2183288]
+	Ordinal0 [0x003951C0+2183616]
+	Ordinal0 [0x0039EE1C+2223644]
+	BaseThreadInitThunk [0x771C6739+25]
+	RtlGetFullPathName_UEx [0x77C68E7F+1215]
+	RtlGetFullPathName_UEx [0x77C68E4D+1165]
+
+----------- 2022-03-08 21:44:15.544190 ----------
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond

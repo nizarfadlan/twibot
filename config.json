@@ -1,0 +1,14 @@
+{
+  "create":{
+    "password":"password123",
+    "typeProvider":1
+  },
+  "tweet":{
+    "hashtag":false,
+    "tag":false
+  },
+  "AiTextGeneration":{
+    "status":false,
+    "model":"EleutherAI/gpt-neo-125M"
+  }
+}
