@@ -523,7 +523,6 @@ def tweet(a,link='',ai='',hashtag='',tag=''):
             start.logout()
             print(f'[*] Logout account twitter {number}')
     except Exception as e:
-      start.close_driver()
       print(e)
       write_log(e)
   elif a == 2:
@@ -545,7 +544,6 @@ def tweet(a,link='',ai='',hashtag='',tag=''):
             start.logout()
             print(f'[*] Logout account twitter {number}')
     except Exception as e:
-      start.close_driver()
       print(e)
       write_log(e)
   elif a == 3:
@@ -582,7 +580,6 @@ def tweet(a,link='',ai='',hashtag='',tag=''):
             start.logout()
             print(f'[*] Logout account twitter {number}')
     except Exception as e:
-      start.close_driver()
       print(e)
       write_log(e)
   elif a == 4:
@@ -619,7 +616,6 @@ def tweet(a,link='',ai='',hashtag='',tag=''):
             start.logout()
             print(f'[*] Logout account twitter {number}')
     except Exception as e:
-      start.close_driver()
       print(e)
       write_log(e)
   elif a == 5:
@@ -641,6 +637,5 @@ def tweet(a,link='',ai='',hashtag='',tag=''):
             start.logout()
             print(f'[*] Logout account twitter {number}')
     except Exception as e:
-      start.close_driver()
       print(e)
       write_log(e)
